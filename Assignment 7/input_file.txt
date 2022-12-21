@@ -1,0 +1,5 @@
+50 IF A ! B THEN GOTO 80 
+60 LET C = A * B 
+65 PRINT "a * b = " 
+70 PRINTLN C 
+80 X = C + X 
